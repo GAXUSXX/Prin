@@ -285,39 +285,8 @@ containing a value of this type.
         public static final int yogurt_2=0x7f020061;
     }
     public static final class id {
-<<<<<<< HEAD
-        public static final int MySurfaceView01=0x7f08001a;
-        public static final int action_settings=0x7f08001c;
-        public static final int desc=0x7f080018;
-        public static final int imageView1=0x7f080000;
-        public static final int imageView12=0x7f080009;
-        public static final int imageView2=0x7f080001;
-        public static final int imageView3=0x7f080002;
-        public static final int imageView4=0x7f080003;
-        public static final int imageView5=0x7f080004;
-        public static final int imageView6=0x7f080008;
-        public static final int imageView7=0x7f08000a;
-        public static final int item0=0x7f08000b;
-        public static final int item1=0x7f08000d;
-        public static final int item2=0x7f08000e;
-        public static final int item3=0x7f08000f;
-        public static final int item4=0x7f080011;
-        public static final int item5=0x7f080012;
-        public static final int item6=0x7f080013;
-        public static final int item7=0x7f080014;
-        public static final int item8=0x7f080015;
-        public static final int item9=0x7f080016;
-        public static final int linearLayout1=0x7f08000c;
-        public static final int linearLayout2=0x7f080010;
-        public static final int name=0x7f080017;
-        public static final int scoreText=0x7f08001b;
-        public static final int set1=0x7f080005;
-        public static final int set2=0x7f080006;
-        public static final int set3=0x7f080007;
-        public static final int unlock=0x7f080019;
-=======
         public static final int MySurfaceView01=0x7f040037;
-        public static final int action_settings=0x7f040039;
+        public static final int action_settings=0x7f04003a;
         public static final int com_facebook_body_frame=0x7f04002f;
         public static final int com_facebook_button_xout=0x7f040031;
         public static final int com_facebook_login_activity_progress_bar=0x7f04001f;
@@ -368,13 +337,13 @@ containing a value of this type.
         public static final int name=0x7f04001a;
         public static final int normal=0x7f040001;
         public static final int picker_subtitle=0x7f04002c;
+        public static final int scoreText=0x7f040038;
         public static final int set1=0x7f040008;
         public static final int set2=0x7f040009;
         public static final int set3=0x7f04000a;
         public static final int small=0x7f040000;
-        public static final int textView1=0x7f040038;
+        public static final int textView1=0x7f040039;
         public static final int unlock=0x7f04001c;
->>>>>>> cd36d4c5ed8141a14ff5e282bd583d95606d996c
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
